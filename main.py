@@ -1,4 +1,3 @@
-import story
 import math
 import random
 
